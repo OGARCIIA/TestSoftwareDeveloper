@@ -1,6 +1,12 @@
-# 🧪 TestSoftwareDeveloper
+# TestSoftwareDeveloper
 
-Proyecto de prueba técnica desarrollado en **.NET 6**, con arquitectura en capas, base de datos **SQL Server**, una **API REST** y una aplicación **WPF** con validación visual reactiva.
+Proyecto de prueba técnica desarrollado en .NET 6, con arquitectura en capas, base de datos SQL Server, una API REST y una aplicación WPF con validación visual reactiva.
+
+## 🧪 Tecnologías Utilizadas
+
+- **Backend**: .NET 6 — Repository Design Pattern — API REST
+- **Frontend**: WPF (Windows Presentation Foundation)
+- **Testing & Validación**: Postman
 
 ---
 
